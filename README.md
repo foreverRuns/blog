@@ -18,6 +18,6 @@
 
 <p align="center">
   <a href="https://www.runss.top/">
-    <img width="180" src="https://cdn.jsdelivr.net/gh/foreverRuns/image-hosting@main/blog/myBlog.21m6anhtphnk.png" alt="blog">
+    <img src="https://cdn.jsdelivr.net/gh/foreverRuns/image-hosting@main/blog/myBlog.21m6anhtphnk.png" alt="blog">
   </a>
 </p>
